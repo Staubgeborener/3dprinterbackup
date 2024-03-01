@@ -5,3 +5,7 @@ secrets.conf*.bkp
 klipper-backup-main.zip
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+klipper-backup-main.zip
