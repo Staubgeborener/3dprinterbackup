@@ -1,9 +1,11 @@
 .env
 secrets.conf
+*.bak
 *.swp
+*.bkp
 *.tmp
+*.csv
 printer-[0-9]*_[0-9]*.cfg
+klipper-backup-main.zip
 *.bak
 *.bkp
-*.csv
-klipper-backup-main.zip
