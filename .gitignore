@@ -9,3 +9,5 @@ printer-[0-9]*_[0-9]*.cfg
 klipper-backup-main.zip
 *.bak
 *.bkp
+*.csv
+klipper-backup-main.zip
